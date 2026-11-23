@@ -1,1 +1,1 @@
-ñ/git-credential-manager"
+git-credential-manager configureñ/git-credential-manager"
